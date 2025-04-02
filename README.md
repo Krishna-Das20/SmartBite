@@ -19,9 +19,7 @@
 ## 🚀 Future Innovations  
 
 🔹 **Admin App** – A dedicated admin panel for managing menu items and user interactions.  
-🔹 **Dark Mode** – A stylish dark theme for a better visual experience.  
 🔹 **Voice Search Integration** – Search recipes hands-free using voice commands.  
-🔹 **Dietary Preferences & Health Tracking** – AI-generated meal plans based on user health goals.  
 🔹 **Offline Mode** – Access saved recipes and grocery lists without an internet connection.  
 🔹 **Multi-Language Support** – Expanding accessibility with support for multiple languages.  
  
